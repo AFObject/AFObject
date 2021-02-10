@@ -11,7 +11,6 @@ I am _NSObject (23786)_, a Grade-Seven student macOS developer and competitive p
 
 💬 My blog website is at <https://www.nsobjectzyx.tk/>.
 
-----
 
 📫 My accounts on competitive-programming sites:
 
@@ -19,6 +18,5 @@ I am _NSObject (23786)_, a Grade-Seven student macOS developer and competitive p
 - [My Codeforces account](https://codeforces.com/profile/NSObject)
 - [My Luogu account](https://www.luogu.com.cn/user/357545)
 
-----
 
 ![](https://github-readme-stats.vercel.app/api?username=23786&show_icons=true) ![]()
