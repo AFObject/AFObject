@@ -6,7 +6,9 @@ I am _NSObject (23786)_, a Grade-Seven student macOS developer and competitive p
 
 🔭 I am interested in the Swift Programming Language, and I've developed some macOS applications with Swift. I am currently working on project [C+++ IDE](https://www.github.com/23786/Cppp-IDE), which is an IDE for competitive programming on macOS.
 
-💬 My blog website is at <https://www.nsobjectzyx.tk/>.
+💬 My blog website is at <http://nsobjectzyx.oier.cloud/> (new) and <http://www.nsobjectzyx.tk/> (old).
+
+🏫 I am currently busy with my studies, so the contribution frequency is low, but I will continue coding when I am free~
 
 
 📫 My accounts on competitive-programming sites:
