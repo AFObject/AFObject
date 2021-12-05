@@ -2,20 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23786" width='300px'>
 
-I am _NSObject (23786)_, a Grade-Eight student macOS developer and competitive programmer (OIer) studying in Shanghai Huayu Junior Middle School.
+macOS 乱搞开发爱好者，啥也不会的退役 OIer。  
+😄 A student macOS developer and retired competitive programmer (AFOIer).
 
-🔭 I am interested in the Swift Programming Language, and I've developed some macOS applications with Swift. I am currently learning **SwiftUI** framework.
+大概会一点 Swift 和 Apple 平台开发，也偶尔会贺一些 Javascript 代码整点活。SwiftUI 是人类智慧。  
+💧 I am interested in the Swift Programming Language, and I've developed some macOS applications with Swift. I am currently learning **SwiftUI** framework.
 
-<!--💬 My blog website is at <http://nsobjectzyx.oier.cloud/> (new) and <http://www.nsobjectzyx.tk/> (old).-->
-
-🏫 I am currently busy with my studies, so the contribution frequency is low, but I will continue coding when I am free~
-
-
-📫 My accounts on competitive-programming sites:
-
-- [My AtCoder account](https://atcoder.jp/users/NSObject)
-- [My Codeforces account](https://codeforces.com/profile/NSObject)
-- [My Luogu account](https://www.luogu.com.cn/user/357545)
-
+文化课菜鸡，爆零自动机。  
+😋 I am currently busy with my studies, so the contribution frequency is low, but I will continue coding when I am free.
 
 ![](https://github-readme-stats.vercel.app/api?username=23786&show_icons=true) ![]()
