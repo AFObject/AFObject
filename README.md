@@ -12,6 +12,6 @@
 
   😋 I am currently busy with my studies, so the contribution frequency is low, but I will continue coding when I am free.
 
-- AU，顶碗人，晚晚你带我走吧……嘿嘿……
+- A-SOUL 时代，沸腾期待！
 
-  🤤 Subscribe Ava!
+  ✋ Hui zhe bu nan!
