@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-- macOS 乱搞开发爱好者，啥也不会的退役的算不上 OIer 的入门组选手。
+- 曾经是 macOS 乱搞开发爱好者 / OI 入门组选手，现在什么也不是。
 
-  💤 A student macOS developer and retired competitive programmer.
+  💻 Used to be a macOS Developer or OIer / now nothing.
 
-- 大概会一点 Swift 和 Apple 平台开发，也偶尔会贺一些 Javascript 代码整点活。SwiftUI 是人类智慧。  
+- 大概会一点 Swift 和 Apple 平台开发，现在忘光了。  
 
-  💧 I am interested in the Swift Programming Language, and I've developed some macOS applications with Swift. I am currently learning **SwiftUI** framework.
+  💧 Apple fan, used to be interested in the Swift Programming Language, but forgot everything now.
 
-- 文化课菜鸡，爆零自动机。  
+- 唯一的消遣是音乐，但耳朵不灵光，乐理也不行。
 
-  😋 I am currently busy with my studies, so the contribution frequency is low, but I will continue coding when I am free.
+  🎵 Interested in music, but equipped with no music theory knowledge.
 
-- A-SOUL 时代，沸腾期待！
+- 自我认知不清，随时可能改名或改头像。
 
-  ✋ Hui zhe bu nan!
+  😵‍💫 Know nothing about myself, ready to change id or avatar at any time.
